@@ -4,7 +4,7 @@ PhD student in chemistry at the University of Münster ([Glorius group](https://
 
 ## TACIT
 
-[![TACIT graphical abstract: learning to predict failed reactions from positive-only data](tacit-abstract.png)](https://github.com/GloriusGroup/tacit)
+<a href="https://github.com/GloriusGroup/tacit"><img src="tacit-abstract.png" alt="TACIT graphical abstract: learning to predict failed reactions from positive-only data" width="600"></a>
 
 **TAckling Chemistry through ImpliciT negative learning.** A reaction outcome model that learns to separate productive from failed reactions while training on positive-only data.
 
@@ -12,7 +12,7 @@ PhD student in chemistry at the University of Münster ([Glorius group](https://
 
 ## Stack
 
-Python · PyTorch · PyTorch Geometric · RDKit · C++
+Python · PyTorch · PyTorch Geometric · RDKit · C# · C++
 
 ## Contact
 
