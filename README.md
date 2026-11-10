@@ -10,10 +10,6 @@ PhD student in chemistry at the University of Münster ([Glorius group](https://
 
 [Code](https://github.com/GloriusGroup/tacit) · [Paper](https://doi.org/10.26434/chemrxiv.15011216/v1) · [Project page](https://gloriusgroup.github.io/tacit/)
 
-## Stack
-
-Python · PyTorch · PyTorch Geometric · RDKit · C# · C++
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/nick-wierich)
